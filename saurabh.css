@@ -4,7 +4,7 @@
 }
 .menu{
     width: 120px;
-    height: 100%;
+    height: 700px;
     background-color:rgb(255, 255, 255);
     float: left;
     margin-top: 17px;
@@ -12,7 +12,7 @@
 }
 .sec1{
     width: 100%;
-    height: 800px;
+    height: 700px;
     background-color:whitesmoke;
 
 }
